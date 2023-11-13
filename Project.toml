@@ -1,0 +1,13 @@
+name = "Resparse"
+uuid = "b7816e6c-a57c-48b5-be39-d24a2514159e"
+authors = ["SamanthaWang <samanthawangdl@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
